@@ -11,7 +11,15 @@ public class SumAndAverage {
         for (int number = lowerbound; number <= upperbound; ++number) {
             sum += number;     // same as "sum = sum + number"
         }
+        
         // Compute average in double. Beware that int/int produces int.
+        
+        //Computing Average by converting upperbound from int to double
+        double upperB = upperbound;
+        average = sum/upperB;
+        
         // Print sum and average.
+        System.out.println("The sum is: " + sum);
+        System.out.println("Ther average is: " + average);
     }
 }
