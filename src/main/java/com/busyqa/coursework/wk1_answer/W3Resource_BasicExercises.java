@@ -238,7 +238,39 @@ public class W3Resource_BasicExercises {
 			System.out.println(" ");
 			
 	//16. Write a Java program to print a face.
+//			Expected Output
+//
+//			 +"""""+                                                 
+//			[| o o |]                                                
+//			 |  ^  |                                                 
+//			 | '-' |                                                 
+//			 +-----+
+			System.out.println("16.------");
 			
+			//use escape character to insert quotes \"
+			System.out.println(" +\"\"\"\"\"+");
+			System.out.println(" +\"\"\"\"\"+");
+			System.out.println("[| o o |]");
+			System.out.println(" |  ^  | ");
+			System.out.println(" | '-' | ");
+			System.out.println(" +-----+ ");
+			
+			System.out.println("\n"); //\n for newline
+			
+//17.Write a Java program to add two binary numbers.	
+//Input Data: Input first binary number: 10
+			//Input second binary number: 11
+			//Expected Output  - Sum of two binary numbers: 101
+			
+			//Answer is seperate class - W3Resrc_17_BinaryAddition.java
+			System.out.println("17.------");
+			System.out.println("Answer in seperate class - W3Resrc_17_BinaryAddition.java");
+			System.out.println(" ");
+			
+//18.Write a Java program to multiply two binary numbers.
+			System.out.println("18.------");
+			System.out.println("Answer in seperate class - W3Resrc_18_BinaryMultiplication.java");
+			System.out.println(" ");
 			
 	}
 }
