@@ -1,4 +1,4 @@
-package com.busyqa.coursework.wk1_answer;
+package com.busyqa.coursework.wk1_meghana;
 
 public class CheckEvenOdd {
 
