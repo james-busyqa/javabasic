@@ -2,8 +2,8 @@ package com.busyqa.coursework.wk2_meghana;
 
 public class Author {
 	//instance variables
-	private String firstName;
-	private String lastName;
+	 String firstName;
+	 String lastName;
 	
 	//constructor
 	public Author() {
